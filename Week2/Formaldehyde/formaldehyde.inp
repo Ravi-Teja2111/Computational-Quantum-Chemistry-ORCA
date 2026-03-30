@@ -1,0 +1,12 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# Formaldehyde MO
+! RHF SP def2-SVP largeprint
+
+* xyz 0 1
+   C        1.06649       -0.08017        0.05196
+   O        2.26349       -0.08017        0.05196
+   H        0.55049       -0.83016        0.53805
+   H        0.55049        0.66982       -0.43413
+*
+
