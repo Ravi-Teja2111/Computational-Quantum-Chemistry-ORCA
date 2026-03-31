@@ -1,0 +1,11 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! MP2 SP def2-SVP 
+
+* xyz 0 1
+   O       -8.21666        3.23685        0.00000
+   O       -6.92473        2.83874       -0.00000
+   O       -5.32274        3.32340       -0.00000
+*
+
