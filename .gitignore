@@ -1,0 +1,9 @@
+# Ignore ORCA output artifacts
+*.property
+*.property.txt
+*.gbw
+*.density
+*.tmp
+*.local
+*.o*
+*.e*
